@@ -1,1 +1,1 @@
-## Essas são listas resolividas sobre python.
+## Essas são listas resolvidas sobre python.
