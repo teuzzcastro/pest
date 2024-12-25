@@ -1,6 +1,5 @@
 print('Etapa 1 (N1)')
 
-# Função para calcular a média da etapa N1
 def calcular_media_ifce_n1(soma_notas: float, quantidade_notas: int):
     return soma_notas / quantidade_notas if quantidade_notas > 0 else 0
 
