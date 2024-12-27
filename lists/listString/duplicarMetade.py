@@ -1,5 +1,5 @@
 def duplicar_metade(string: str):
-    return string[:len(string) // 3] * 2
+    return string[:len(string) // 2] * 2
 
-saida = duplicar_metade('Programar')
+saida = duplicar_metade('Python')
 print(saida)
